@@ -1,9 +1,8 @@
-"""Session 1 test"""
+"""A Python package to visualize molecules given their Cartesian coordinate
+This was created for the Python Best Practice Workshop"""
 
 # Add imports here
 from .functions import canvas
-# changed this line to include this comment
-# line 2
 
 
 from ._version import __version__
