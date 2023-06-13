@@ -126,6 +126,7 @@ def bond_histogram(bond_list, save_location=None, dpi=300, graph_min=0, graph_ma
     plt.ylabel('Number of Bonds')
     
     
+    
     ax.hist(lengths, bins=bins)
     
     # Save figure
