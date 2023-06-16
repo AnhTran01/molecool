@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
 #matplotlib notebook
+# modified some text in a different branch in a local remote repository
 
 def calculate_distance(rA, rB):
     # This function calculates the distance between two points given as numpy arrays.
