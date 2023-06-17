@@ -12,6 +12,7 @@ from mpl_toolkits.mplot3d import Axes3D
 =======
 #matplotlib notebook
 # modified some text in a different branch in a local remote repository
+# this line will be feature in a newer file
 
 >>>>>>> 2ecd8b8ffeaf9896253380673ad08b1569c6bc1c
 def calculate_distance(rA, rB):
